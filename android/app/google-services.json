@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "558481874494",
+    "project_id": "clickshoppy-ec7ea",
+    "storage_bucket": "clickshoppy-ec7ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558481874494:android:820f720b80963807b7fb6f",
+        "android_client_info": {
+          "package_name": "com.clickshoppy.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGHWJ1ehHoOnqmOWT8kb4nRHc7I8Ix1Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558481874494:android:dca4501140ad0f34b7fb6f",
+        "android_client_info": {
+          "package_name": "com.websutility_clickshoppy.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGHWJ1ehHoOnqmOWT8kb4nRHc7I8Ix1Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
