@@ -1,4 +1,4 @@
-# eshop_multivendor
+# Skand Solution
 
 A new Flutter project.
 
